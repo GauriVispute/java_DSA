@@ -1,4 +1,4 @@
-package ArrayList;
+package Array_list_DS;
 import java.util.ArrayList;
 
 public class maximum_number_in_arrayList {

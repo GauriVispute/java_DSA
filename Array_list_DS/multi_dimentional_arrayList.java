@@ -1,4 +1,4 @@
-package ArrayList;
+package Array_list_DS;
 import java.util.ArrayList;
 public class multi_dimentional_arrayList {
     public static void main(String[] args) {

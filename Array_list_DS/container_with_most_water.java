@@ -1,4 +1,4 @@
-package ArrayList;
+package Array_list_DS;
 import java.util.ArrayList;
 
 public class container_with_most_water {
